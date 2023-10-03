@@ -29,7 +29,7 @@ class App extends React.Component {
                             this.setState({ theme: 'default' });
                         }}
                     >
-                        Default Theme
+                    Default Theme
                     </Button>
                     <Button
                         btnStyle={this.state.theme === 'styled' ? 'primary' : 'flat'}
