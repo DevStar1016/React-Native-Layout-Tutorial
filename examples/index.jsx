@@ -21,7 +21,7 @@ class App extends React.Component {
 
         return (
             <div>
-                <Navbar name={name} url={url}>
+                <Navbar name={name} url={ url }>
                     <Button
                         btnStyle={this.state.theme === 'default' ? 'primary' : 'flat'}
                         className={navbarStyles.navbarBtn}
