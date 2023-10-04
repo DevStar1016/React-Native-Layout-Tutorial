@@ -38,7 +38,7 @@ class App extends React.Component {
                             this.setState({ theme: 'styled' });
                         }}
                     >
-                        Styled Component
+                        Style Component
                     </Button>
                 </Navbar>
                 <div
