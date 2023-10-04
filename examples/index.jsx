@@ -43,7 +43,7 @@ class App extends React.Component {
                 </Navbar>
                 <div
                     style={{
-                        position: 'relative',
+                        position: 'fixed',
                         height: 'calc(100vh - 50px)'
                     }}
                 >
