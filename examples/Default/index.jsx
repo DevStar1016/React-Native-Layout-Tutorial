@@ -135,7 +135,7 @@ export default class extends PureComponent {
                             <NavItem eventKey="settings/network">
                                 <NavText title="Network">
                                     Network
-                                </NavText>
+                                </ NavText>
                             </NavItem>
                         </NavItem>
                     </SideNav.Nav>
