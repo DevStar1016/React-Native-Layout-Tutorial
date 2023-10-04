@@ -12,6 +12,7 @@ const StyledSideNav = styled(SideNav)`
     background-color: #fff;
     border-right: 1px solid #ddd;
 `;
+
 StyledSideNav.defaultProps = SideNav.defaultProps;
 
 // Toggle
